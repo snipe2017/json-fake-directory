@@ -1,0 +1,8 @@
+{
+"profiles":[
+  {"id":1, "name":"najeer","gender":"male"},
+    {"id":2, "name":"rohit","gender":"male"},
+    {"id":3, "name":"mohan","gender":"male"},
+    {"id":4, "name":"ravindra","gender":"male"}
+    ]
+}    
